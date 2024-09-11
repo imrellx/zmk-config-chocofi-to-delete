@@ -98,25 +98,25 @@ rect.vertical_combo, rect.diagonal_combo {
 <g transform="translate(10, 0)" class="layer-FN">
 <text x="0" y="20" class="label" id="FN">FN</text>
 <g transform="translate(0, 40)">
-<g transform="translate(42, 125)" class="key held keypos-0">
-<rect rx="6" ry="6" x="-37" y="-35" width="75" height="70" class="key held side"/>
-<rect rx="4" ry="4" x="-31" y="-34" width="63" height="60" class="key held"/>
-<text x="0" y="-4" class="key held tap">󰂲</text>
+<g transform="translate(42, 125)" class="key keypos-0">
+<rect rx="6" ry="6" x="-37" y="-35" width="75" height="70" class="key side"/>
+<rect rx="4" ry="4" x="-31" y="-34" width="63" height="60" class="key"/>
+<text x="0" y="-4" class="key tap">󰂲</text>
 </g>
-<g transform="translate(127, 68)" class="key held keypos-1">
-<rect rx="6" ry="6" x="-37" y="-35" width="75" height="70" class="key held side"/>
-<rect rx="4" ry="4" x="-31" y="-34" width="63" height="60" class="key held"/>
-<text x="0" y="-4" class="key held tap">󰌭</text>
+<g transform="translate(127, 68)" class="key keypos-1">
+<rect rx="6" ry="6" x="-37" y="-35" width="75" height="70" class="key side"/>
+<rect rx="4" ry="4" x="-31" y="-34" width="63" height="60" class="key"/>
+<text x="0" y="-4" class="key tap">󰌭</text>
 </g>
-<g transform="translate(212, 40)" class="key held keypos-2">
-<rect rx="6" ry="6" x="-37" y="-35" width="75" height="70" class="key held side"/>
-<rect rx="4" ry="4" x="-31" y="-34" width="63" height="60" class="key held"/>
-<text x="0" y="-4" class="key held tap">󰌬</text>
+<g transform="translate(212, 40)" class="key keypos-2">
+<rect rx="6" ry="6" x="-37" y="-35" width="75" height="70" class="key side"/>
+<rect rx="4" ry="4" x="-31" y="-34" width="63" height="60" class="key"/>
+<text x="0" y="-4" class="key tap">󰌬</text>
 </g>
-<g transform="translate(297, 71)" class="key held keypos-3">
-<rect rx="6" ry="6" x="-37" y="-35" width="75" height="70" class="key held side"/>
-<rect rx="4" ry="4" x="-31" y="-34" width="63" height="60" class="key held"/>
-<text x="0" y="-4" class="key held tap">󰌌󰕓</text>
+<g transform="translate(297, 71)" class="key keypos-3">
+<rect rx="6" ry="6" x="-37" y="-35" width="75" height="70" class="key side"/>
+<rect rx="4" ry="4" x="-31" y="-34" width="63" height="60" class="key"/>
+<text x="0" y="-4" class="key tap">󰌌󰕓</text>
 </g>
 <g transform="translate(381, 82)" class="key keypos-4">
 <rect rx="6" ry="6" x="-37" y="-35" width="75" height="70" class="key side"/>
